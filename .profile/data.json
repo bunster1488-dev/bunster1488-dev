@@ -1,5 +1,5 @@
 {
- "key": "ea121560",
+ "key": "257b8c76",
  "stars": 0,
  "contributions": 76,
  "repos": 3,
@@ -94,9 +94,13 @@
    {
     "c": 0,
     "day": 9,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 10,
     "today": true
    },
-   null,
    null,
    null,
    null,
